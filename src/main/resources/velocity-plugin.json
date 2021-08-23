@@ -2,8 +2,8 @@
   "id": "swap",
   "name": "swap",
   "version": "${project.version}",
-  "description": "Velocity server command with per-server permissions.",
-  "url": "https://software.oskarsmc.com/",
+  "description": "${project.description}",
+  "url": "${project.url}",
   "authors": [
     "OskarZyg",
     "OskarsMC"
